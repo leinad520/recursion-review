@@ -3,6 +3,13 @@
 
 // but you don't so you're going to write it from scratch:
 
+//input: obj
+//output: stringed obj
+
 var stringifyJSON = function(obj) {
   // your code goes here
 };
+
+
+[undefined, 'hello', 2, true];
+{}
